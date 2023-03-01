@@ -34,16 +34,14 @@
 
 <!-- OVERVIEW -->
 
-## Overview
+ <img width="221" alt="checkout" src="https://user-images.githubusercontent.com/94329479/222105963-486b8ca8-2b79-417a-895f-f09a42ce9584.png">
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+<img width="420" alt="checkout1" src="https://user-images.githubusercontent.com/94329479/222106043-4a1b2e88-2bb6-43ef-be28-264c35f5e670.png">
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can find the demo on netlify
+- I learned how a developer could adopt flexbox and grid on the same projects. These projects help me a lot to think about how to place my HTML codes correctly.
+- I gain a lot of experience using Tailwind CSS to build this fantastic page.
 
 ### Built With
 
