@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.label {
+    position: relative;
+    display: block;
+}
+
+
+
+.svg {
+    pointer-events: none;
+    width: 2em;
+    height: 2em;
+    position: absolute;
+}
+
+.input {
+    display: block;
+    padding: 2em;
+    border: 2px solid black;
+    
+}
+
+.select {
+    display: block;
+    padding: 2em;
+    border: 2px solid black;
+}
