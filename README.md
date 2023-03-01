@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{https://checkout-page-tailwindcss.netlify.app}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://devchallenges.io/solutions/vmQq095V6dxkGPKb8Equ}">
       Solution
     </a>
     <span> | </span>
@@ -35,7 +35,6 @@
 <!-- OVERVIEW -->
 
  <img width="221" alt="checkout" src="https://user-images.githubusercontent.com/94329479/222105963-486b8ca8-2b79-417a-895f-f09a42ce9584.png">
-
 
 <img width="420" alt="checkout1" src="https://user-images.githubusercontent.com/94329479/222106043-4a1b2e88-2bb6-43ef-be28-264c35f5e670.png">
 
